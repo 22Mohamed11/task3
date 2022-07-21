@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(../IMG_20210704_140203_521.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#navbar{
+    text-align: center;
+    padding: 20px;
+}
+ #div1 ul li{
+    display: inline-block;
+}
+#navbar ul li a{ 
+    text-decoration: none;
+    color: white;
+    padding: 20px;  
+}
+#photo{
+    width: 100%;
+    height: 300px;
+    padding-bottom: 20px;
+}
+pre{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#mido{
+    color: red;
+}
+#header div img{
+    width: 110px;
+    height: 110px;
+    border-radius:50%;
+    border:2px solid rgb(157, 157, 160); 
+    margin: auto;
+}
+#div2{
+    padding-left:1%;
+    padding-bottom: 50px;
+}
+#div3{
+    padding-left:14%;
+    padding-bottom: 50px;
+}
+#div4{
+    padding-left:30%;
+    padding-bottom: 50px;
+}
+#div5{
+    padding-left: 45%;
+    padding-bottom: 50px;
+}
+#div6{
+    padding-left:30%;
+    padding-bottom: 50px;
+}
+#div7{
+    padding-left:14%;
+    padding-bottom: 50px;
+}
+#div8{
+    padding-left:1%;
+}
